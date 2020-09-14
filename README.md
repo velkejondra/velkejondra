@@ -1,1 +1,1 @@
-<div class="tenor-gif-embed" data-postid="17292343" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/gorilla-spinning-spinning-gorilla-animal-funny-gif-17292343">Gorilla Spinning Animal GIF</a> from <a href="https://tenor.com/search/gorillaspinning-gifs">Gorillaspinning GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![gorila](tenor.gif)
