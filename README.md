@@ -1,1 +1,1 @@
-![gorila](tenor.gif)
+![gorila](https://github.com/velkejondra/velkejondra/blob/master/tenor.gif)
